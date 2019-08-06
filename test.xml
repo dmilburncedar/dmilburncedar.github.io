@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Response>
+    <Say>
+        This is an automated message from Test Provider. You have a bill that is ready to be paid. Please visit <prosody rate="slow">test provider dot dev dot cedar dot com</prosody> to view and pay your bill. Your bill ID is <prosody rate="slow"><say-as interpret-as="digits"></say-as></prosody>. If you have any questions, you can chat with a representative on our website or call <say-as interpret-as="telephone">5555550100</say-as>.
+        To repeat. This is an automated message from Test Provider. You have a bill that is ready to be paid. Please visit <prosody rate="slow">test provider dot dev dot cedar dot com</prosody> to view and pay your bill. Your bill ID is <prosody rate="slow"><say-as interpret-as="digits"></say-as></prosody>.
+        To repeat. This is an automated message from Test Provider. You have a bill that is ready to be paid. Please visit <prosody rate="slow">test provider dot dev dot cedar dot com</prosody> to view and pay your bill. Your bill ID is <prosody rate="slow"><say-as interpret-as="digits"></say-as></prosody>.
+        Thank you.
+    </Say>
+    <Hangup/>
+</Response>
